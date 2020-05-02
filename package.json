@@ -29,7 +29,7 @@
     "galio-framework": "^0.6.3",
     "react": "^16.13.1",
     "react-native": "^0.61.4",
-    "react-native-gesture-handler": "~1.5.0",
+    "react-native-gesture-handler": "~1.6.1",
     "react-native-modal-dropdown": "^0.7.0",
     "react-native-reanimated": "~1.7.0",
     "react-native-safe-area-context": "0.7.3",
