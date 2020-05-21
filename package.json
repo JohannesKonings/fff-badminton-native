@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "0.1.10",
-    "@react-navigation/compat": "^5.1.9",
-    "@react-navigation/drawer": "^5.5.0",
-    "@react-navigation/native": "^5.1.6",
+    "@react-navigation/compat": "^5.1.10",
+    "@react-navigation/drawer": "^5.5.1",
+    "@react-navigation/native": "^5.1.7",
     "@react-navigation/stack": "^5.2.14",
     "expo": "^36.0.2",
     "expo-asset": "~8.1.4",
