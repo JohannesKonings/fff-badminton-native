@@ -19,7 +19,7 @@
   "dependencies": {
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/compat": "^5.1.21",
-    "@react-navigation/drawer": "^5.7.4",
+    "@react-navigation/drawer": "^5.7.5",
     "@react-navigation/native": "^5.3.2",
     "@react-navigation/stack": "^5.3.6",
     "expo": "^36.0.2",
