@@ -20,7 +20,7 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/compat": "^5.2.1",
     "@react-navigation/drawer": "^5.8.6",
-    "@react-navigation/native": "^5.7.0",
+    "@react-navigation/native": "^5.7.1",
     "@react-navigation/stack": "^5.7.0",
     "expo": "^36.0.2",
     "expo-asset": "~8.1.7",
