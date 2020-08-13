@@ -28,7 +28,7 @@
     "expo-linear-gradient": "~8.2.1",
     "galio-framework": "^0.7.1",
     "react": "^16.13.1",
-    "react-native": "^0.63.1",
+    "react-native": "^0.63.2",
     "react-native-gesture-handler": "~1.7.0",
     "react-native-modal-dropdown": "^0.7.0",
     "react-native-reanimated": "~1.9.0",
