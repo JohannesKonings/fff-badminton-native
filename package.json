@@ -17,30 +17,30 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@react-native-community/masked-view": "0.1.10",
-    "@react-navigation/compat": "^5.2.5",
-    "@react-navigation/drawer": "^5.9.0",
-    "@react-navigation/native": "^5.7.3",
-    "@react-navigation/stack": "^5.9.0",
-    "expo": "^36.0.2",
-    "expo-asset": "~8.1.7",
-    "expo-font": "~8.3.0",
-    "expo-linear-gradient": "~8.3.0",
-    "galio-framework": "^0.7.1",
-    "react": "^16.13.1",
-    "react-native": "^0.64.1",
-    "react-native-gesture-handler": "~1.7.0",
-    "react-native-modal-dropdown": "^0.7.0",
-    "react-native-reanimated": "~2.10.0",
-    "react-native-safe-area-context": "0.7.3",
-    "react-native-screens": "2.10.1",
-    "snyk": "^1.996.0"
+    "@react-native-community/masked-view": "0.1.11",
+    "@react-navigation/compat": "^5.3.20",
+    "@react-navigation/drawer": "^6.5.0",
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/stack": "^6.3.2",
+    "expo": "^46.0.16",
+    "expo-asset": "~8.6.1",
+    "expo-font": "~10.2.1",
+    "expo-linear-gradient": "~11.4.0",
+    "galio-framework": "^0.8.0",
+    "react": "^18.2.0",
+    "react-native": "^0.70.4",
+    "react-native-gesture-handler": "~2.8.0",
+    "react-native-modal-dropdown": "^1.0.2",
+    "react-native-reanimated": "~2.11.0",
+    "react-native-safe-area-context": "4.4.1",
+    "react-native-screens": "3.18.2",
+    "snyk": "^1.1041.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "^8.1.0",
-    "cross-env": "^7.0.2",
-    "expo-cli": "^3.17.24",
-    "jest-expo": "^36.0.1"
+    "babel-preset-expo": "^9.2.0",
+    "cross-env": "^7.0.3",
+    "expo-cli": "^6.0.6",
+    "jest-expo": "^46.0.1"
   },
   "bugs": {
     "url": "https://github.com/creativetimofficial/material-kit-react-native/issues"
